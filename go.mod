@@ -1,4 +1,4 @@
-module fillstruct
+module github.com/yuchunzhou/fillstruct
 
 go 1.25.0
 
